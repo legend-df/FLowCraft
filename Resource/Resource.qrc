@@ -43,6 +43,7 @@
     <qresource prefix="/HelpFile">
         <file>HelpPage/index.html</file>
         <file>HelpPage/Pages/Softwareinterface.html</file>
+        <file>HelpPage/Pages/ToolAddition.html</file>
         <file>HelpPage/style.css</file>
         <file>HelpPage/imgs/logo.png</file>
         <file>HelpPage/imgs/de.png</file>
